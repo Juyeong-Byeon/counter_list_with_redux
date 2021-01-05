@@ -1,4 +1,4 @@
-# 왓챠 과제전형 프로젝트
+# redux를 이용한 global state관리
 
 ## 설명
 ## 사용 스택
@@ -6,4 +6,5 @@
  * React
  * styled-components
  * reset-css
- * 
+ * redux
+ * react-redux
